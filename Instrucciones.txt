@@ -1,0 +1,32 @@
+Ejercicios C# 1#
+
+1) Calcular el area y circuferencia de un circulo:
+- Se debe pedir el radio del circulo
+- Hacer el calculo de la circunferencia
+- Hacer el calculo del area
+- Mostrar los resultados en consola
+
+2) Calcular la superficio de un triangulo
+- Para sacar la superficie se debe preguntar la dimensional del triangulo
+- Preguntar la base del triangulo
+- Ingresar la altura del triangulo
+- Hacer el calculo para la superficie e imprimirlo en consola
+
+3) Mostrar numeros impares
+- Preguntarle al usuario hasta que numero desea que se impriman los numeros impares
+- Aplicar un bucle para que se impriman los numeros impares.
+
+4) Conteo Pesos
+- Debe de hacer un conteo de pesos ingresos por el usuario
+- Ingresar cuantas muestras debe comprobar el programa
+- Debe de ingresar que media de pesos se va a calcular
+- Hacer un conteo de que pesos son mayores o menores al peso ingresado e imprimirlo en consola.
+
+5) Pago Sueldo Empleado
+- El programa debe pedir el nombre del empleado
+- Se debe pedir el salario por hora
+- Pedir la antiguedad del empleado en la empresa
+- Pedir el total de horas trabajadas
+- Pedir los bonos del trabajador
+- Hacer el calculo para el total bruto, descuento y total neto
+- Imprimir todos los datos en consola. 
